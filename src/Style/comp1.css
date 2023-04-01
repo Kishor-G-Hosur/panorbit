@@ -1,0 +1,49 @@
+.a1{
+    margin-top: -15px;
+    background: linear-gradient(90deg,rgb(248, 212, 212),rgb(165, 165, 244));
+    background-color: aliceblue;
+
+    height: 100vh;
+    flex-wrap: wrap;
+
+   
+}
+
+
+.a11{
+    text-align: center; 
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 15px;
+    margin: auto ;
+    padding: 50px;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+
+}
+.a2{
+  border-bottom: 1px solid black;
+   
+}
+.a2{
+    display: flex;
+}
+.a4 img{
+    margin-top: 5px;
+    border-radius: 30px ;
+}
+.a3{
+    margin-left: 30px;
+}
+h5{
+    
+    font-size: 15px;
+    color: black;
+}
+.a22 a{
+    text-decoration: none;
+    
+}

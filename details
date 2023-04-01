@@ -1,0 +1,11 @@
+ node.js install
+
+
+  create react app "npx i create-react-app appname"
+
+  npm i react-router-dom (for routing)
+
+to run code:
+npm start
+
+
