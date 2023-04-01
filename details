@@ -1,9 +1,12 @@
  node.js install
+ 
+ to add node modules :
+ npm i
 
 
-  create react app "npx i create-react-app appname"
+create react app "npx i create-react-app appname"
 
-  npm i react-router-dom (for routing)
+npm i react-router-dom (for routing)
 
 to run code:
 npm start
